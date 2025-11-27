@@ -15,7 +15,11 @@ The insights support better decision-making for **2025 & 2026**.
 ---
 
 ## 📂 Dataset Used
-- <a hetf="ANISH  STORE  EXCEL PROJECT FOR DATA ANALYSIS.xlsx"> SALES DATASET </a>
+- ## 📂 Dataset Download
+Click the link below to download the dataset used in this project:
+
+👉 [Download ANISH STORE EXCEL PROJECT FOR DATA ANALYSIS.xlsx](https://github.com/username/repository-name/blob/main/ANISH%20STORE%20EXCEL%20PROJECT%20FOR%20DATA%20ANALYSIS.xlsx)
+
 
 ---
 
