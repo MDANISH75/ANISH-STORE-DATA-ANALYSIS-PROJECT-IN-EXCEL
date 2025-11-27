@@ -8,8 +8,8 @@ This dashboard helps the store owner understand customer behavior, top-performin
 - <a herf="ANISH  STORE  EXCEL PROJECT FOR DATA ANALYSIS.xlsx">ANISH STORE</a>
 
 # 🧮 Key Business Questions (KPIs)
-•	📈 Compare Sales vs Orders using a single combined chart
-•	🗓 Identify which month had the highest sales and orders
+>	📈 Compare Sales vs Orders using a single combined chart
+>	🗓 Identify which month had the highest sales and orders
 •	👩‍🦰👨‍🦱 Determine who purchased more—Men or Women?
 •	📦 Analyze Order Status distribution (Delivered, Returned,Refunded, Canceled, etc.)
 •	🗺 List Top 5 states contributing to total sales
