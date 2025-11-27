@@ -7,5 +7,15 @@ This dashboard helps the store owner understand customer behavior, top-performin
 # 📂 Dataset Used
 - <a herf="ANISH  STORE  EXCEL PROJECT FOR DATA ANALYSIS.xlsx">ANISH STORE</a>
 
-🧮 Key Business Questions (KPIs)
-> This is a quote or highlighted line
+# 🧮 Key Business Questions (KPIs)
+•	📈 Compare Sales vs Orders using a single combined chart
+•	🗓 Identify which month had the highest sales and orders
+•	👩‍🦰👨‍🦱 Determine who purchased more—Men or Women?
+•	📦 Analyze Order Status distribution (Delivered, Returned,Refunded, Canceled, etc.)
+•	🗺 List Top 5 states contributing to total sales
+•	👫 Understand the relationship between Age Group & Gender based on number of orders
+•	🛒 Identify which Sales Channel contributed the most (Amazon, Flipkart, etc.)
+•	🏷 Find the Highest Selling Product Category
+•	🚚 Calculate % of Total Orders Delivered
+•	📊 Provide an interactive Dashboard view for business insights
+
