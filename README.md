@@ -1,3 +1,7 @@
 ## 📊 Anish Store – Annual Sales Report Dashboard (2025)
 # 📝 **Project Objective**
-"Developed a comprehensive Excel-based analytics project that includes multiple interactive dashboards and pivot tables for detailed data analysis. The workflow involved end-to-end data preprocessing, thorough data cleaning, and the creation of insightful data visualizations to support informed decision-making." 
+"The purpose of this project is to analyze the Annual Sales Report (2025) for Anish Store.
+This dashboard helps the store owner understand customer behavior, top-performing states, sales channels, and product categories—allowing better business decisions and growth planning for 2025 & 2026." 
+
+ 📂 Dataset Used
+ANISH  STORE  EXCEL PROJECT FOR DATA ANALYSIS.xlsx
