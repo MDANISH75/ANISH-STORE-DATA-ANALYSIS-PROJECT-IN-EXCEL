@@ -100,5 +100,4 @@ This demographic is the **highest revenue-generating segment** and key for busin
 ---
 
 ## 📊 Dashboard Preview
-> *(<img width="1793" height="608" alt="DASHBOARD" src="https://github.com/user-attachments/assets/8976d39c-9819-4259-8942-3498ef27a638" />
-)*  
+> <img width="1793" height="608" alt="DASHBOARD" src="https://github.com/user-attachments/assets/8976d39c-9819-4259-8942-3498ef27a638" />  
