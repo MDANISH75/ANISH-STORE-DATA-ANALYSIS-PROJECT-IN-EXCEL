@@ -30,7 +30,8 @@ The insights support better decision-making for **2025 & 2026**.
 - 🛒 Identify the **top Sales Channel** (Amazon, Flipkart, etc.)  
 - 🏷 Find the **highest selling Product Category**  
 - 🚚 Calculate **% of Total Orders Delivered**  
-- 📊 Build an **interactive Excel dashboard**  
+- 📊 Build an **interactive Excel dashboard[Dashboard Preview](https://raw.githubusercontent.com/MDANISH75/ANISH-STORE-DATA-ANALYSIS-PROJECT-IN-EXCEL/main/DASHBOARD.png)**
+  
 
 ---
 
