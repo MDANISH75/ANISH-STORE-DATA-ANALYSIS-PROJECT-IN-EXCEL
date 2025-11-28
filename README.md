@@ -1,103 +1,101 @@
-# 📊 Anish Store – Annual Sales Report Dashboard (2025)
+# Anish Store – Annual Sales Report Dashboard (2025)
 
-## 📝 Project Objective
-The objective of this project is to analyze the **Annual Sales Report (2025)** for **Anish Store**.  
-This dashboard helps the owner understand:
+## Project Objective
+The goal of this project is to analyze the **Annual Sales Report (2025)** for **Anish Store**.  
+The dashboard provides insights into:
 
-- Customer buying behavior  
-- Top-performing states & sales channels  
+- Customer buying patterns  
+- Top-performing states and sales channels  
 - Best-selling product categories  
 - Delivery performance  
 - Monthly sales trends  
 
-The insights support better decision-making for **2025 & 2026**.
+These insights help the store owner make informed decisions for **2025 and 2026**.
 
 ---
 
-## 📂 Dataset Used
--[Download Excel Dataset (2025)](https://raw.githubusercontent.com/MDANISH75/ANISH-STORE-DATA-ANALYSIS-PROJECT-IN-EXCEL/main/ANISH%20%20STORE%20%20EXCEL%20PROJECT%20FOR%20DATA%20ANALYSIS.xlsx)
-
-
----
-
-## 🧮 Key Business Questions (KPIs)
-- 📈 Compare **Sales vs Orders** in a combined chart  
-- 🗓 Identify the **month with highest sales & orders**  
-- 👩‍🦰👨‍🦱 Determine **who purchased more — Men or Women**  
-- 📦 Analyze **Order Status distribution** (Delivered, Returned, Refunded, Canceled, etc.)  
-- 🗺 Find **Top 5 states** contributing to total sales  
-- 👫 Understand **Age Group vs Gender** order behavior  
-- 🛒 Identify the **top Sales Channel** (Amazon, Flipkart, etc.)  
-- 🏷 Find the **highest selling Product Category**  
-- 🚚 Calculate **% of Total Orders Delivered**  
-- 📊 Build an **interactive Excel dashboard[Dashboard Preview](https://raw.githubusercontent.com/MDANISH75/ANISH-STORE-DATA-ANALYSIS-PROJECT-IN-EXCEL/main/DASHBOARD.png)**
-  
+## Dataset Used
+- [Download Excel Dataset (2025)](https://raw.githubusercontent.com/MDANISH75/ANISH-STORE-DATA-ANALYSIS-PROJECT-IN-EXCEL/main/ANISH%20%20STORE%20%20EXCEL%20PROJECT%20FOR%20DATA%20ANALYSIS.xlsx)
 
 ---
 
-## 🔧 Process & Workflow
+## Key Business Questions (KPIs)
+- Compare **Sales vs Orders** in a combined chart  
+- Identify the **month with the highest sales and orders**  
+- Analyze purchasing behavior by gender  
+- Examine **Order Status distribution** (Delivered, Returned, Refunded, Canceled, etc.)  
+- Identify the **top 5 states** contributing to total sales  
+- Explore **Age Group vs Gender** order patterns  
+- Determine the **top Sales Channel** (Amazon, Flipkart, etc.)  
+- Identify the **highest selling Product Category**  
+- Calculate **percentage of orders delivered**  
+- Build an **interactive Excel dashboard** [Dashboard Preview](https://raw.githubusercontent.com/MDANISH75/ANISH-STORE-DATA-ANALYSIS-PROJECT-IN-EXCEL/main/DASHBOARD.png)
 
-### 1️⃣ Data Cleaning
-- Checked for missing values, duplicates, anomalies  
-- Ensured uniform formatting & corrected data types  
+---
 
-### 2️⃣ Data Transformation
+## Process & Workflow
+
+### 1. Data Cleaning
+- Checked for missing values, duplicates, and anomalies  
+- Ensured consistent formatting and corrected data types  
+
+### 2. Data Transformation
 - Created **age groups**  
 - Standardized **State, Order Status, and Channel Names**
 
-### 3️⃣ Analysis
+### 3. Analysis
 - Built multiple **Pivot Tables**  
-- Created Line, Bar, Donut, Map charts + KPI Cards  
+- Created Line, Bar, Donut, Map charts and KPI cards  
 
-### 4️⃣ Dashboard Creation
+### 4. Dashboard Creation
 - Combined all charts into a **single interactive dashboard**  
-- Added slicers for:  
+- Added filters for:  
   - Gender  
   - State  
   - Sales Channel  
-  - Category  
+  - Product Category  
   - Age Group  
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
-- 👩 **Women contribute ~65%** of total purchases  
-- 🏆 **Top 3 states:**
+- Women account for approximately **65% of total purchases**  
+- **Top 3 states by sales:**  
   1. Maharashtra  
   2. Karnataka  
   3. Uttar Pradesh  
-- 🎯 **Adult (30–49 years)** age group drives nearly **50% of total sales**  
-- 🛒 **Amazon, Flipkart, Myntra** are top-performing channels  
-- 🚚 **90%+ orders delivered** successfully  
+- The **30–49 age group** drives nearly **50% of total sales**  
+- Amazon, Flipkart, and Myntra are the **top-performing channels**  
+- Over **90% of orders were successfully delivered**  
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
-To increase sales in 2025–2026, Anish Store should focus on:
+To boost sales in 2025–2026, Anish Store should focus on:
 
-### 🔹 Target Audience
+### Target Audience
 - Women  
 - Age group: **30–49 years**  
-- States: **Maharashtra, Karnataka, Uttar Pradesh**
+- Key states: **Maharashtra, Karnataka, Uttar Pradesh**
 
-### 🔹 Strategy
-- Personalized offers & discount campaigns  
-- Targeted social media ads  
-- Stronger presence on Amazon, Flipkart & Myntra  
+### Strategy
+- Personalized offers and discount campaigns  
+- Targeted social media advertising  
+- Strengthening presence on Amazon, Flipkart, and Myntra  
 
-This demographic is the **highest revenue-generating segment** and key for business growth.
-
----
-
-## 🛠 Tools & Technologies
-- **Microsoft Excel**  
-- **Pivot Tables & Pivot Charts**  
-- **Data Cleaning Techniques**  
-- **Dashboard Design**  
+Focusing on this demographic can drive significant revenue growth.
 
 ---
 
-## 📊 Dashboard Preview
-> <img width="1793" height="608" alt="DASHBOARD" src="https://github.com/user-attachments/assets/8976d39c-9819-4259-8942-3498ef27a638" />  
+## Tools & Technologies
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Data Cleaning and Transformation Techniques  
+- Dashboard Design  
+
+---
+
+## Dashboard Preview
+> <img width="1793" height="608" alt="DASHBOARD" src="https://github.com/user-attachments/assets/8976d39c-9819-4259-8942-3498ef27a638" />
